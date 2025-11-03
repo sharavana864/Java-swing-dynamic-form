@@ -100,7 +100,7 @@ public class DynamicForm extends JFrame {
         });
 ```
 
-![Program Output](./1.png)
-![Program Output](./2.png)
-![Program Output](./3.png)
-![Program Output](./4.png)
+![Program Output](https://github.com/sharavana864/Java-swing-dynamic-form/blob/main/1.jpg)
+![Program Output](https://github.com/sharavana864/Java-swing-dynamic-form/blob/main/2.jpg)
+![Program Output](https://github.com/sharavana864/Java-swing-dynamic-form/blob/main/3.jpg)
+![Program Output](https://github.com/sharavana864/Java-swing-dynamic-form/blob/main/4.jpg)
